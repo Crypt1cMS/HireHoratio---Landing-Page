@@ -40,9 +40,9 @@ function App() {
             </div>
 
             
-            <div className="hero-brands">
+            <div className="scroller" data-direction="left" data-speed="fast">
 
-              <ul>
+              <ul className='scroller__inner'>
                 <li>
                   <img src={Bilt} alt="Brand" />
                 </li>
