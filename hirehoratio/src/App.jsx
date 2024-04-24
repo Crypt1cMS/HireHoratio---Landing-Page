@@ -189,8 +189,12 @@ function App() {
 
         </footer>
 
+        {/* <a className="btn lightbox-233058266123048">Hola</a> */}
+
       </main>
     </>
+
+    
   )
 }
 
